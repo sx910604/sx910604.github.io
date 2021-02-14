@@ -1,7 +1,7 @@
 # Site settings
 title: Xiang Shen
 SEOTitle: Xiang's Blog
-header-img: img/pupu2.jpg
+header-img: img/pupu3.jpg
 email: xiangshen@gwu.edu
 description: "Welcome to my blog!"
 keyword: "my blog"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/sx910604/sx910604.github.io" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I am PuPu, I am a Pomchi."
-sidebar-avatar: /img/pupu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/pupuandme.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
