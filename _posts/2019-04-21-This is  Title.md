@@ -11,6 +11,7 @@ tags:
     - tag2
 ---
 
+> This blog first published on my blog. (https://sx910604.github.io/).
 
 # Title
 
